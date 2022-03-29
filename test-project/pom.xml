@@ -12,5 +12,13 @@
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
     </properties>
+    
+    <dependencies>
+         <!--Add dependency for Selenium-->
+         <!--Add dependency for poi-->
+         <!--Add dependency for poi-ooxml-->
+         <!--Add dependency for TestNG-->
+         <!--Add dependency for WebDriver-->
+    </dependencies>
 
 </project>
